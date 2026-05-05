@@ -3,6 +3,8 @@
 
 `memstab` executes binaries directly within system memory. It leverages Linux kernel's native capabilities and removes the need for any on-disk artifacts, with just a one-liner command useful as a process-injection tool.
 
+⚠️ **Please Note:** This project is strictly for **Educational and Authorized Penetration Testing**. I am not responsible for any of the shenanigans you guys pull.
+
 ## 🛠️ PoC
 
 The one-liner python obfuscation builder generates a stager. This stager performs a chain of events to transition from a shell command to a running process without ever touching the hard drive.
