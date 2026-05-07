@@ -73,3 +73,7 @@ ls -l /proc/$(pidof [init])/exe
 *   **Network Obfuscation**: Use reputed URLs or CDN fronting for your delivery server to blend the `curl` traffic as normal noise.
 
 ---
+
+<p align="center">
+  With ❤️ by <b>Aradhya</b>
+</p>
